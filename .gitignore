@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore auto generated folders
+__pycache__/
+.ipynb_checkpoints
+
+# Ignore CSV data files
+201902-fordgobike-tripdata.csv
+gobike-rides-master.csv
+gobike-stations-master.csv
